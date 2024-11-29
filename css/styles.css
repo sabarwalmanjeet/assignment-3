@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #007BFF;
+    background-color: #19a222;
     color: white;
     padding: 20px;
     text-align: center;
@@ -35,5 +35,5 @@ main {
 }
 
 .blog-image {
-    max-width: 30rem;
+    max-width: 50rem;
 }
