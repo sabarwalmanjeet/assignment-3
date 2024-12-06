@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #19a222;
-    color: white;
+    background-color: #0044ff;
+    color: rgb(251, 251, 251);
     padding: 20px;
     text-align: center;
 }
@@ -35,5 +35,5 @@ main {
 }
 
 .blog-image {
-    max-width: 50rem;
+    max-width: 30rem;
 }
